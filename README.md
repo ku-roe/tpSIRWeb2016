@@ -1,4 +1,4 @@
-TP Web : Javascript et HTML5
+<h1>TP Web : Javascript et HTML5</h1>
 
 TP fait par Banchet Chloé et Kaakati Dania
 
