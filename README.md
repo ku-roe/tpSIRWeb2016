@@ -1,6 +1,4 @@
-<h1>TP Web : Javascript et HTML5</h1>
-
-<h2>TP fait par Banchet Chloé et Kaakati Dania</h2>
+<h1>TP Web : Javascript et HTML5, fait par Banchet Chloé et Kaakati Dania</h1>
 Ce TP a pour but de créer une application web avec une architecture en MVC, avec le langage JavaScript, principalement.
 
 <h3>Model</h3>
