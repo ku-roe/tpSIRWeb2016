@@ -1,6 +1,6 @@
 
 .myCanvas {
-
+	background-color : #F0F0F0;
 }
 
 .cf:before,.cf:after{content:"";display:table}.cf:after{clear:both}.cf{zoom:1}
